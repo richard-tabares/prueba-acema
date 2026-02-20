@@ -1,0 +1,5 @@
+export const USER_TYPES = {
+    GET: 'GET_USERS',
+    LOGIN: 'LOGIN_USER',
+    UPDATEUSER: 'UPDATE_USER',
+}
